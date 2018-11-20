@@ -1,1 +1,17 @@
-Identify the aspects of your application that vary and seperate them from what stays the same.
+
+1. Seperate what changes from what stays the same.
+
+Take what varies and encapsulate(封装) it, so it won't affect the rest of your code.
+Take the parts that vary and encapsulate them, so that later you can alter or extend the parts that vary without affecting those don't.
+Result? Fewer unintended consequences from code changes and more flexibility in your systems.
+
+
+2. Program to an interface, not an implementation.
+
+"Program to an interface" really means "Program to a supertype".
+The point is to exploit polymorphism(多态) by programing to a supertype so that the actual runtime object isn't locked into the code.
+The declared type of the variables should be a supertype, usually an abstract class or interface, so that the objects assigned to
+those variables can be of any concrete implementation of the supertype, which means the class declaring them doesn't have to know 
+about the actual object types.
+
+
