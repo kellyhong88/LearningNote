@@ -1,6 +1,4 @@
 # JavaNote
-Java学习笔记
-
-Head First Java
-
-Head First Design Pattern
+## Reference
+- Head First Java
+- Head First Design Pattern
