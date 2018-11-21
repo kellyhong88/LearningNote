@@ -15,3 +15,12 @@ those variables can be of any concrete implementation of the supertype, which me
 about the actual object types.
 
 
+3. Favor composition over inheritance(继承).
+
+HAS-A can be better than IS-A.
+Not only does it let you encapsulate a family of algorithms into their own set of classes, but it also lets you change behavior at 
+runtime as long as the object (you're composing with) implements the correct behavior interface.
+
+
+
+
