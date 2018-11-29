@@ -11,6 +11,8 @@
 
 
 # OO Priciples
+`Reference: "Head First Design Pattern"`
+
 ## 1. Encapsulate what varies.
 - Seperate what changes from what stays the same.
 - Take what varies and encapsulate it, so it won't affect the rest of your code.
