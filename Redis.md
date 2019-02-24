@@ -6,7 +6,7 @@
 
 > 参考：[为什么用缓存、缓存击透、缓存雪崩](http://database.51cto.com/art/201811/586162.htm)
 
-> 参考：[为什么要用 Redis](https://juejin.im/post/5b516dc75188251af363492d)
+> 参考：[为什么要用 Redis](https://juejin.im/post/5b516dc75188251af363492d)
 
 ## Cache Q&A
 1. 缓存与数据库的双写一致性/同步
@@ -40,8 +40,8 @@
 > 参考：[Redis 3种过期键删除机制](https://segmentfault.com/a/1190000004866645)
 
 ## Redis 持久化
-### RDB (redis database）：保存数据快照到磁盘
-### AOF（append only file）：保存数据生成命令文件到磁盘
+### RDB (redis database)：保存数据快照到磁盘
+### AOF (append only file)：保存数据生成命令文件到磁盘
 
 > 参考：[Redis 持久化原理](https://juejin.im/post/5b70dfcf518825610f1f5c16)
 
