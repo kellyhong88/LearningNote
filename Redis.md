@@ -4,16 +4,16 @@
 1. 性能：查询耗时又不频繁改动，适合用Cache
 2. 并发：先查Cache，若无再查DB or 均从Cache返回，起异步线程查DB写Cache
 
-> [为什么用缓存、缓存击透、缓存雪崩](http://database.51cto.com/art/201811/586162.htm)
+> 参考：[为什么用缓存、缓存击透、缓存雪崩](http://database.51cto.com/art/201811/586162.htm)
 
-> [为什么要用 Redis](https://juejin.im/post/5b516dc75188251af363492d)
+> 参考[为什么要用 Redis](https://juejin.im/post/5b516dc75188251af363492d)
 
 ## Cache Q&A
 1. 缓存与数据库的双写一致性/同步
     
    先写数据库，再删缓存
 
-> [分布式之数据库与缓存一致性](http://www.cnblogs.com/rjzheng/p/9041659.html)
+> 参考：[分布式之数据库与缓存一致性](http://www.cnblogs.com/rjzheng/p/9041659.html)
 
 2. 缓存击透
 
@@ -37,13 +37,13 @@
 
 6. 过期key删除机制 and 内存淘汰机制
 
-> [Redis 3种过期键删除机制](https://segmentfault.com/a/1190000004866645)
+> 参考：[Redis 3种过期键删除机制](https://segmentfault.com/a/1190000004866645)
 
 ## Redis 持久化
 ### RDB（redis database）：保存数据快照到磁盘
 ### AOF（append only file）：保存数据生成命令文件到磁盘
 
-> [Redis 持久化原理](https://juejin.im/post/5b70dfcf518825610f1f5c16)
+> 参考：[Redis 持久化原理](https://juejin.im/post/5b70dfcf518825610f1f5c16)
 
 
 ## Redis 数据类型与底层实现
@@ -65,9 +65,9 @@
    6. IntSet：整数集合
    7. 字典
 
-> [Redis 底层实现](http://princessdudu.com/2018/10/15/redis%E5%9F%BA%E7%A1%80/)  
+> 参考：[Redis 底层实现](http://princessdudu.com/2018/10/15/redis%E5%9F%BA%E7%A1%80/)  
 
-> [Redis 底层数据结构](https://www.jianshu.com/p/f8ccf8806095)
+> 参考：[Redis 底层数据结构](https://www.jianshu.com/p/f8ccf8806095)
 
 ### 数据类型内外对应关系
 
