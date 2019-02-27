@@ -9,9 +9,14 @@
 1. RabbitMQ
 2. Kafka
 3. Spring Cloud Bus
-4. MNS: Message Service 阿里云消息队列
+4. MNS: Message Service 阿里云消息服务
+5. RocketMQ
 
 > 参考：[RabbitMQ 新手入门](https://www.cnblogs.com/vipstone/p/9275256.html)
+
+> 参考：[阿里云消息服务 MNS](http://www.woojean.com/2017/06/13/%E9%98%BF%E9%87%8C%E4%BA%91%E6%B6%88%E6%81%AF%E6%9C%8D%E5%8A%A1-MNS-%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E6%80%BB%E7%BB%93/)
+
+> 参考：[几种消息中间件的比较](http://blog.wentong.me/2016/01/message-queue-research/)
 
 ## MQ 持久化
 > 参考：[RabbitMQ 持久化一](https://my.oschina.net/huaxian8812/blog/808713)
