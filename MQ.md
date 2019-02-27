@@ -11,6 +11,9 @@
 3. Spring Cloud Bus
 4. MNS: Message Service 阿里云消息队列
 
+> 参考：[RabbitMQ 新手入门](https://www.cnblogs.com/vipstone/p/9275256.html)
+
 ## MQ 持久化
+> 参考：[RabbitMQ 持久化一](https://my.oschina.net/huaxian8812/blog/808713)
 
-
+> 参考：[RabbitMQ 持久化二](http://littledriver.net/posts/rabbitmq%E7%9A%84%E6%95%B0%E6%8D%AE%E6%8C%81%E4%B9%85%E5%8C%96/)
