@@ -29,7 +29,7 @@
 
    1. 纯内存操作
    2. Redis是单线程，避免了多线程的上下文切换
-   3. 网络层使用epoll解决高并发问题，采用了非阻塞I/O多路复用机制(Pipelineg)
+   3. 网络层使用epoll解决高并发问题，采用了非阻塞I/O多路复用机制(Pipeline)
 
 5. 多线程竞争key
 
@@ -53,7 +53,7 @@
    2. Hash
    3. List
    4. Set
-   5. ZSet (SortSet)
+   5. ZSet (Sorted Set)
 
 ### Redis 底层数据结构
 
@@ -63,7 +63,7 @@
    4. SkipList：跳跃表
    5. HashTable：hash表
    6. IntSet：整数集合
-   7. 字典
+   7. Dict：字典
 
 > 参考：[Redis 底层实现](http://princessdudu.com/2018/10/15/redis%E5%9F%BA%E7%A1%80/)  
 
@@ -77,4 +77,8 @@
    4. Set: hashtable, intset
    5. ZSet: skiplist, ziplist
 
-   
+> 参考：[跳表SkipList 一](https://www.jianshu.com/p/fcd18946994e)  
+
+> 参考：[跳表SkipList 二](https://my.oschina.net/swearyd7/blog/420939)  
+
+> 参考：[跳表SkipList 三](http://daoluan.net/%E6%9C%AA%E5%88%86%E7%B1%BB/2014/06/26/decode-redis-data-struct-skiplist.html)  
