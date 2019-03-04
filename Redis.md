@@ -33,7 +33,7 @@
 
 5. 多线程竞争key
 
-   乐观锁（version 或 timestamp）
+   分布式锁：乐观锁（version 或 timestamp）
 
 6. 过期key删除机制 and 内存淘汰机制
 
