@@ -1,4 +1,6 @@
 
+> 参考："Head First Design Patterns"
+
 # OO
  - Object - Oriented
  - 面向对象
