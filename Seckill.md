@@ -8,7 +8,7 @@
 
 > 参考：[面试之秒杀问题](http://www.voidcn.com/article/p-dkhmifwx-co.html)
 
-
+   
 ## 架构
 秒杀其实就是大量的`并发读`和`并发写`。
 
