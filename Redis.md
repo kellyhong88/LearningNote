@@ -4,8 +4,6 @@
 1. 性能：查询耗时又不频繁改动，适合用Cache
 2. 并发：先查Cache，若无再查DB or 均从Cache返回，起异步线程查DB写Cache
 
-> 参考：[为什么用缓存、缓存击透、缓存雪崩](http://database.51cto.com/art/201811/586162.htm)
-
 > 参考：[为什么要用 Redis](https://juejin.im/post/5b516dc75188251af363492d)
 
 ## Cache Q&A
