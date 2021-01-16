@@ -22,3 +22,10 @@
 > 参考：[RabbitMQ 持久化一](https://my.oschina.net/huaxian8812/blog/808713)
 
 > 参考：[RabbitMQ 持久化二](http://littledriver.net/posts/rabbitmq%E7%9A%84%E6%95%B0%E6%8D%AE%E6%8C%81%E4%B9%85%E5%8C%96/)
+
+
+## Kafka
+> 参考：[Kafka 一文学完Kafka](https://mp.weixin.qq.com/s/Ndwrlst-aVdUpcNz-inM3Q)
+
+> 参考：[Kafka 会不会丢消息](https://mp.weixin.qq.com/s/cVj8n5kPOOvf1AzqISXl7g)
+
