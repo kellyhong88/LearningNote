@@ -8,11 +8,11 @@
 
 > 参考：[抽象工厂模式](https://mp.weixin.qq.com/s/K_E9pI5rnkjHU0eizg9lqg)
 
+> 参考：[观察者模式](https://mp.weixin.qq.com/s/JHIzGc1c0EyT-LfuUhyTtA)
+
 > 参考：[策略模式](https://mp.weixin.qq.com/s/gB1nM4q9PculNVZJr9NSHA)
 
 > 参考：[策略模式2](https://mp.weixin.qq.com/s/9AHzKiZ0YUSEXnnKp89xMA)
-
-> 参考：[观察者模式](https://mp.weixin.qq.com/s/JHIzGc1c0EyT-LfuUhyTtA)
 
 > 参考：[装饰器模式](https://mp.weixin.qq.com/s/lgLyShC1-nl7L7ZHoe5YDw)
 
