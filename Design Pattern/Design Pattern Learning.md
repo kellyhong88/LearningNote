@@ -24,6 +24,4 @@
 
 > 参考：[模版模式](https://zhuanlan.zhihu.com/p/55379659)
 
-> 参考：[模版模式2](https://www.cnblogs.com/adamjwh/p/10919149.html)
-
 > 参考：[Spring中用了哪些设计模式](https://mp.weixin.qq.com/s/iGbwKDqB6A0ktNCY8Wd-XQ)
